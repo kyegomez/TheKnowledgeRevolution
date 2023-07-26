@@ -52,3 +52,18 @@ Together, we can start the movement that can redefine the future of knowledge an
 ```
 "This is our time. A moment in history where we decide the course of humanity. Will we hoard our knowledge, or will we share it? Let us choose the path of enlightenment. Let us choose TheOpenRevolution."
 ```
+
+## 1-Click Share
+
+Help us spread the word about The Knowledge Revolution and our mission to open source every database and store of human knowledge! Click on the buttons below to share with your network:
+
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://github.com/kyegomez/TheKnowledgeRevolution)](https://twitter.com/intent/tweet?url=https://github.com/kyegomez/TheKnowledgeRevolution&text=Join%20the%20movement%20for%20knowledge%20liberation%21%20Sign%20the%20petition%20for%20%23TheOpenRevolution%20and%20let%27s%20unlock%20the%20vaults%20of%20wisdom%20for%20all.)
+[![Facebook](https://img.shields.io/badge/share%20on-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/kyegomez/TheKnowledgeRevolution)
+[![LinkedIn](https://img.shields.io/badge/share%20on-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?url=https://github.com/kyegomez/TheKnowledgeRevolution&title=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21&summary=Support%20the%20mission%20to%20open%20source%20every%20database%20and%20store%20of%20human%20knowledge%20%23TheOpenRevolution)
+[![WhatsApp](https://img.shields.io/badge/share%20on-whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](whatsapp://send?text=Join%20the%20movement%20for%20knowledge%20liberation%21%20Sign%20the%20petition%20for%20%23TheOpenRevolution%20and%20let%27s%20unlock%20the%20vaults%20of%20wisdom%20for%20all.%20https%3A%2F%2Fgithub.com%2Fkyegomez%2FTheKnowledgeRevolution)
+[![Reddit](https://img.shields.io/badge/submit%20to-reddit-orange?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/kyegomez/TheKnowledgeRevolution&title=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21)
+[![Pinterest](https://img.shields.io/badge/save%20to-pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/pin/create/button/?url=https://github.com/kyegomez/TheKnowledgeRevolution&description=Join%20the%20movement%20for%20knowledge%20liberation%21%20%23TheOpenRevolution)
+
+Let's unite to unlock the vaults of wisdom for the betterment of humanity! Together, we can bring about TheOpenRevolution and pave the way to a knowledge-sharing society.
+
+Click on the buttons above to share on your favorite social media platform and invite others to join the cause.
