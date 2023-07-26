@@ -63,6 +63,7 @@ Help us spread the word about The Knowledge Revolution and our mission to open s
 [![WhatsApp](https://img.shields.io/badge/share%20on-whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](whatsapp://send?text=Join%20the%20movement%20for%20knowledge%20liberation%21%20Sign%20the%20petition%20for%20%23TheOpenRevolution%20and%20let%27s%20unlock%20the%20vaults%20of%20wisdom%20for%20all.%20https%3A%2F%2Fgithub.com%2Fkyegomez%2FTheKnowledgeRevolution)
 [![Reddit](https://img.shields.io/badge/submit%20to-reddit-orange?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/kyegomez/TheKnowledgeRevolution&title=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21)
 [![Pinterest](https://img.shields.io/badge/save%20to-pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/pin/create/button/?url=https://github.com/kyegomez/TheKnowledgeRevolution&description=Join%20the%20movement%20for%20knowledge%20liberation%21%20%23TheOpenRevolution)
+[![Hacker News](https://img.shields.io/badge/submit%20to-hacker%20news-ff6600?style=flat&logo=hacker%20news&logoColor=white)](https://news.ycombinator.com/submitlink?u=https://github.com/kyegomez/TheKnowledgeRevolution&t=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21)
 
 Let's unite to unlock the vaults of wisdom for the betterment of humanity! Together, we can bring about TheOpenRevolution and pave the way to a knowledge-sharing society.
 
