@@ -1,4 +1,13 @@
 # The Knowledge Revolution
+
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://github.com/kyegomez/TheKnowledgeRevolution)](https://twitter.com/intent/tweet?url=https://github.com/kyegomez/TheKnowledgeRevolution&text=Join%20the%20movement%20for%20knowledge%20liberation%21%20Sign%20the%20petition%20for%20%23TheOpenRevolution%20and%20let%27s%20unlock%20the%20vaults%20of%20wisdom%20for%20all.)
+[![Facebook](https://img.shields.io/badge/share%20on-facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/kyegomez/TheKnowledgeRevolution)
+[![LinkedIn](https://img.shields.io/badge/share%20on-linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle?url=https://github.com/kyegomez/TheKnowledgeRevolution&title=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21&summary=Support%20the%20mission%20to%20open%20source%20every%20database%20and%20store%20of%20human%20knowledge%20%23TheOpenRevolution)
+[![WhatsApp](https://img.shields.io/badge/share%20on-whatsapp-green?style=flat&logo=whatsapp&logoColor=white)](whatsapp://send?text=Join%20the%20movement%20for%20knowledge%20liberation%21%20Sign%20the%20petition%20for%20%23TheOpenRevolution%20and%20let%27s%20unlock%20the%20vaults%20of%20wisdom%20for%20all.%20https%3A%2F%2Fgithub.com%2Fkyegomez%2FTheKnowledgeRevolution)
+[![Reddit](https://img.shields.io/badge/submit%20to-reddit-orange?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https://github.com/kyegomez/TheKnowledgeRevolution&title=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21)
+[![Pinterest](https://img.shields.io/badge/save%20to-pinterest-red?style=flat&logo=pinterest&logoColor=white)](https://www.pinterest.com/pin/create/button/?url=https://github.com/kyegomez/TheKnowledgeRevolution&description=Join%20the%20movement%20for%20knowledge%20liberation%21%20%23TheOpenRevolution)
+[![Hacker News](https://img.shields.io/badge/submit%20to-hacker%20news-ff6600?style=flat&logo=hacker%20news&logoColor=white)](https://news.ycombinator.com/submitlink?u=https://github.com/kyegomez/TheKnowledgeRevolution&t=Join%20The%20Knowledge%20Revolution%20for%20knowledge%20liberation%21)
+
 The mission to open source every database and store of Human knowledge.
 
 ### The Current State of Affairs
